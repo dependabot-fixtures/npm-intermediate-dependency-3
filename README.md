@@ -1,0 +1,1 @@
+# npm-intermediate-dependency-3
